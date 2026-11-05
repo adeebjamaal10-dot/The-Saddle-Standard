@@ -1,0 +1,105 @@
+16:57:00 RETRY how-to-examine-saddle-construction attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:00 RETRY signs-of-poor-saddle-manufacturing attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:00 RETRY what-makes-a-high-quality-english-saddle attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:00 RETRY saddle-stitching-quality-explained attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:10 RETRY signs-of-poor-saddle-manufacturing attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:10 RETRY how-to-examine-saddle-construction attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:10 RETRY what-makes-a-high-quality-english-saddle attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:10 RETRY saddle-stitching-quality-explained attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:17 OK understanding-saddle-tree-construction words=1415
+16:57:26 RETRY signs-of-poor-saddle-manufacturing attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:26 RETRY how-to-examine-saddle-construction attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:26 RETRY saddle-stitching-quality-explained attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:26 RETRY what-makes-a-high-quality-english-saddle attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:41 OK saddle-panel-materials-compared words=1926
+16:57:48 RETRY what-makes-a-high-quality-english-saddle attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:48 RETRY saddle-stitching-quality-explained attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:48 RETRY how-to-examine-saddle-construction attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:57:48 RETRY signs-of-poor-saddle-manufacturing attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:03 OK evaluating-leather-quality-in-saddles words=1742
+16:58:16 RETRY what-makes-a-high-quality-english-saddle attempt=5 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:16 RETRY how-to-examine-saddle-construction attempt=5 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:16 RETRY signs-of-poor-saddle-manufacturing attempt=5 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:17 RETRY saddle-stitching-quality-explained attempt=5 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:25 OK understanding-saddle-durability words=1608
+16:58:46 FAIL what-makes-a-high-quality-english-saddle
+16:58:46 FAIL how-to-examine-saddle-construction
+16:58:46 FAIL signs-of-poor-saddle-manufacturing
+16:58:47 OK saddle-hardware-structural-reliability words=1781
+16:58:47 FAIL saddle-stitching-quality-explained
+16:58:51 RETRY saddle-weight-and-construction attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:51 RETRY assess-saddle-finish-workmanship attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:51 RETRY role-of-tree-in-saddle-quality attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:58:51 RETRY saddle-symmetry-and-straightness attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+16:59:41 RETRY how-to-examine-saddle-construction attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:00:00 RETRY how-to-examine-saddle-construction attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:00:09 OK what-makes-a-high-quality-english-saddle words=2604
+17:00:34 RETRY how-to-examine-saddle-construction attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:00:36 OK signs-of-poor-saddle-manufacturing words=1629
+17:01:01 OK saddle-stitching-quality-explained words=1628
+17:01:23 RETRY how-to-examine-saddle-construction attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:01:28 OK assess-saddle-finish-workmanship words=1624
+17:01:57 OK saddle-weight-and-construction words=1862
+17:02:21 OK saddle-symmetry-and-straightness words=1472
+17:02:28 RETRY role-of-tree-in-saddle-quality attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:02:44 OK how-to-examine-saddle-construction words=1703
+17:02:51 RETRY machine-made-vs-hand-finished-saddles attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:03:04 OK role-of-tree-in-saddle-quality words=1545
+17:03:11 RETRY gullet-channel-design-spinal-clearance attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:03:29 OK machine-made-vs-hand-finished-saddles words=1704
+17:03:36 RETRY flocking-quality-wool-foam-synthetic attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:03:49 OK gullet-channel-design-spinal-clearance words=1487
+17:03:56 RETRY saddle-price-and-quality attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:04:12 OK flocking-quality-wool-foam-synthetic words=1806
+17:04:19 RETRY evaluating-a-used-saddle-condition attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:04:34 OK saddle-price-and-quality words=1851
+17:04:42 RETRY common-saddle-defects-how-to-spot-them attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:04:57 OK evaluating-a-used-saddle-condition words=1815
+17:05:04 RETRY saddle-quality-inspection-routine attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:05:22 OK common-saddle-defects-how-to-spot-them words=1834
+17:05:29 RETRY understanding-basic-saddle-fit attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:05:43 OK saddle-quality-inspection-routine words=1508
+17:05:50 RETRY what-saddle-tree-width-means attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:06:09 RETRY what-saddle-tree-width-means attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:06:12 OK understanding-basic-saddle-fit words=2450
+17:06:36 OK understanding-saddle-balance words=1811
+17:06:43 RETRY wither-clearance-explained attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:07:01 OK what-saddle-tree-width-means words=1895
+17:07:08 RETRY bridging-in-saddle-fitting attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:07:19 OK wither-clearance-explained words=1402
+17:07:27 RETRY bridging-in-saddle-fitting attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:07:44 OK saddle-rocking-and-instability words=1699
+17:08:01 RETRY bridging-in-saddle-fitting attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:08:06 OK saddle-length-and-horses-back words=1607
+17:08:27 OK understanding-panel-contact words=1516
+17:08:50 RETRY bridging-in-saddle-fitting attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:08:54 OK horse-back-asymmetry words=1998
+17:09:17 OK when-to-request-professional-saddle-assessment words=1675
+17:09:40 OK static-versus-dynamic-saddle-fitting words=1793
+17:09:54 RETRY bridging-in-saddle-fitting attempt=5 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:10:04 OK saddle-fit-for-developing-horses words=1653
+17:10:27 OK fitting-the-short-backed-horse words=1835
+17:10:52 OK fitting-the-high-withered-horse words=1917
+17:10:57 RETRY fitting-the-wide-backed-cob attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:11:11 RETRY bridging-in-saddle-fitting attempt=6 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:11:14 RETRY fitting-the-wide-backed-cob attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:11:46 RETRY fitting-the-wide-backed-cob attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:12:32 RETRY fitting-the-wide-backed-cob attempt=4 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:12:43 RETRY bridging-in-saddle-fitting attempt=7 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:13:34 RETRY fitting-the-wide-backed-cob attempt=5 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:14:15 RETRY bridging-in-saddle-fitting attempt=8 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:14:51 RETRY fitting-the-wide-backed-cob attempt=6 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:15:46 RETRY bridging-in-saddle-fitting attempt=9 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:16:23 RETRY fitting-the-wide-backed-cob attempt=7 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:17:18 RETRY bridging-in-saddle-fitting attempt=10 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:17:28 RETRY bridging-in-saddle-fitting attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:17:29 RETRY fitting-the-wide-backed-cob attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:17:44 RETRY bridging-in-saddle-fitting attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:17:46 RETRY fitting-the-wide-backed-cob attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:17:55 RETRY fitting-the-wide-backed-cob attempt=8 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:18:16 RETRY bridging-in-saddle-fitting attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Error code: 429 - {'error': 'concurrent_request_limit', 'message':
+17:18:18 RETRY fitting-the-wide-backed-cob attempt=3 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:18:48 FAIL bridging-in-saddle-fitting
+17:18:53 RETRY rider-fit-how-the-saddle-must-fit-you attempt=1 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:19:10 RETRY rider-fit-how-the-saddle-must-fit-you attempt=2 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
+17:19:27 RETRY fitting-the-wide-backed-cob attempt=9 err=ChatError: Failed to generate chat completion: litellm.RateLimitError: RateLimitError: OpenAIException - Budget has been exceeded! Key=dbmb7j4hk93c7380ovi0 (sk-...sp-Q) Cu
